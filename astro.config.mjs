@@ -5,5 +5,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [react(), tailwind()],
   site: 'https://yourusername.github.io',
-  base: '/audio-eq-processor',
+  base: '/lightbrite-eq',
 });
